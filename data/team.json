@@ -1,0 +1,94 @@
+[
+    {
+        "imgSrc": "/images/team/team-1.jpg",
+        "name": "Abdulateed Hussein",
+        "position": "General Director",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "#"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "#"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/team-2.jpg",
+        "name": "Taiwo Ojoh",
+        "position": "CEO & Chief Manager",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "#"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "#"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/team-3.jpg",
+        "name": "Ugobi Ede",
+        "position": "Project Manager",
+        "role": "admin",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "#"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "#"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "imgSrc": "/images/team/team-4.jpg",
+        "name": "Rose Omoruyi",
+        "position": "Marketing Manager",
+        "role": "employee",
+        "socialList": [
+            {
+                "name": "Facebook",
+                "iconName": "fab fa-facebook-f",
+                "url": "#"
+            },
+            {
+                "name": "Twitter",
+                "iconName": "fab fa-twitter",
+                "url": "#"
+            },
+            {
+                "name": "Instagram",
+                "iconName": "fab fa-instagram",
+                "url": "#"
+            }
+        ]
+    }
+]

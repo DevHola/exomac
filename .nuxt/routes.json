@@ -1,0 +1,68 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "blog-classic",
+    "path": "/blog-classic",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-classic.vue",
+    "chunkName": "pages/blog-classic"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "blog-grid",
+    "path": "/blog-grid",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-grid.vue",
+    "chunkName": "pages/blog-grid"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us"
+  },
+  {
+    "name": "home-three",
+    "path": "/home-three",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\home-three.vue",
+    "chunkName": "pages/home-three"
+  },
+  {
+    "name": "home-two",
+    "path": "/home-two",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\home-two.vue",
+    "chunkName": "pages/home-two"
+  },
+  {
+    "name": "project",
+    "path": "/project",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\project.vue",
+    "chunkName": "pages/project"
+  },
+  {
+    "name": "project-details",
+    "path": "/project-details",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\project-details.vue",
+    "chunkName": "pages/project-details"
+  },
+  {
+    "name": "service",
+    "path": "/service",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\service.vue",
+    "chunkName": "pages/service"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

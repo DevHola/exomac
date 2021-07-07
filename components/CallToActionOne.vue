@@ -13,7 +13,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Our Locations</h4>
-                            <span class="info-text"> 110 W 34th St, NYC. <br> 67 Madison Avenue.</span>
+                            <span class="info-text"> <br> Nigeria</span>
                         </div>
                     </div>
                 </div>

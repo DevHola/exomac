@@ -36,7 +36,7 @@ export { default as ServiceWrapper } from '../..\\components\\ServiceWrapper.vue
 export { default as ShapeWithAnimation } from '../..\\components\\ShapeWithAnimation.vue'
 export { default as SkillWithVideo } from '../..\\components\\SkillWithVideo.vue'
 export { default as SuccessStory } from '../..\\components\\SuccessStory.vue'
-export { default as Team } from '../..\\components\\team.vue'
+export { default as Team } from '../..\\components\\Team.vue'
 export { default as TeamMember } from '../..\\components\\TeamMember.vue'
 export { default as TeamOne } from '../..\\components\\TeamOne.vue'
 export { default as TestimonialItem } from '../..\\components\\TestimonialItem.vue'
@@ -82,7 +82,7 @@ export const LazyServiceWrapper = import('../..\\components\\ServiceWrapper.vue'
 export const LazyShapeWithAnimation = import('../..\\components\\ShapeWithAnimation.vue' /* webpackChunkName: "components_ShapeWithAnimation" */).then(c => c.default || c)
 export const LazySkillWithVideo = import('../..\\components\\SkillWithVideo.vue' /* webpackChunkName: "components_SkillWithVideo" */).then(c => c.default || c)
 export const LazySuccessStory = import('../..\\components\\SuccessStory.vue' /* webpackChunkName: "components_SuccessStory" */).then(c => c.default || c)
-export const LazyTeam = import('../..\\components\\team.vue' /* webpackChunkName: "components_team" */).then(c => c.default || c)
+export const LazyTeam = import('../..\\components\\Team.vue' /* webpackChunkName: "components_Team" */).then(c => c.default || c)
 export const LazyTeamMember = import('../..\\components\\TeamMember.vue' /* webpackChunkName: "components_TeamMember" */).then(c => c.default || c)
 export const LazyTeamOne = import('../..\\components\\TeamOne.vue' /* webpackChunkName: "components_TeamOne" */).then(c => c.default || c)
 export const LazyTestimonialItem = import('../..\\components\\TestimonialItem.vue' /* webpackChunkName: "components_TestimonialItem" */).then(c => c.default || c)

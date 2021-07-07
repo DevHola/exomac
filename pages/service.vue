@@ -11,7 +11,7 @@
 
         <ServiceWrapper />
          <div class="text-center row">
-         <div v-for="(service,index) in services" :key="index" class="col-3 p-1"> 
+         <div v-for="(service,index) in services" :key="index" class="col-3 p-4 "> 
             <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
              <h5><nuxt-link :to="'/services/'+service.url" type="button" class="">{{service.title}}</nuxt-link></h5>
              </div>
@@ -34,10 +34,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             ServiceWrapper: () => import('@/components/ServiceWrapper'),
-            SuccessStory: () => import('@/components/SuccessStory'),
-            AboutFour: () => import('@/components/AboutFour'),
             FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
-            ContactSectionTwo: () => import('@/components/ContactSectionTwo'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 

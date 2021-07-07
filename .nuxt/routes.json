@@ -3,84 +3,78 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_5521883c"
+    "chunkName": "pages/about"
   },
   {
     "name": "blog-classic",
     "path": "/blog-classic",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-classic.vue",
-    "chunkName": "pages/blog-classic",
-    "_name": "_3eb32ff0"
+    "chunkName": "pages/blog-classic"
   },
   {
     "name": "blog-details",
     "path": "/blog-details",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-details.vue",
-    "chunkName": "pages/blog-details",
-    "_name": "_6fc9c9b8"
+    "chunkName": "pages/blog-details"
   },
   {
     "name": "blog-grid",
     "path": "/blog-grid",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\blog-grid.vue",
-    "chunkName": "pages/blog-grid",
-    "_name": "_55f811c0"
+    "chunkName": "pages/blog-grid"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_76b02a4c"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "home-three",
     "path": "/home-three",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\home-three.vue",
-    "chunkName": "pages/home-three",
-    "_name": "_c00b28de"
+    "chunkName": "pages/home-three"
   },
   {
     "name": "home-two",
     "path": "/home-two",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\home-two.vue",
-    "chunkName": "pages/home-two",
-    "_name": "_0a955bff"
+    "chunkName": "pages/home-two"
+  },
+  {
+    "name": "meet-the-team",
+    "path": "/meet-the-team",
+    "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\meet-the-team.vue",
+    "chunkName": "pages/meet-the-team"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\project.vue",
-    "chunkName": "pages/project",
-    "_name": "_5ae84008"
+    "chunkName": "pages/project"
   },
   {
     "name": "project-details",
     "path": "/project-details",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\project-details.vue",
-    "chunkName": "pages/project-details",
-    "_name": "_69e7e2fd"
+    "chunkName": "pages/project-details"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_1ffc8da4"
+    "chunkName": "pages/service"
   },
   {
     "name": "services-id",
     "path": "/services/:id?",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\_id.vue",
-    "chunkName": "pages/services/_id",
-    "_name": "_0456eecb"
+    "chunkName": "pages/services/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_74d96301"
+    "chunkName": "pages/index"
   }
 ]

@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-32">We help our clients solve business problems, relating to <br> improve HR and business operations</h2>
+                <h5 class="title " style="font-size:20px;">Our Clients may rely on our focused approach to establishing tailor-made HR services and solutions tailored to their needs in an increasingly flexible and continuously changing business context.</h5>
             </div>
             <!-- Section Title End -->
             <div class="row">

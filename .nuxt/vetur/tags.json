@@ -228,10 +228,10 @@
     "description": "Auto imported from components/SuccessStory.vue"
   },
   "Team": {
-    "description": "Auto imported from components/team.vue"
+    "description": "Auto imported from components/Team.vue"
   },
   "LazyTeam": {
-    "description": "Auto imported from components/team.vue"
+    "description": "Auto imported from components/Team.vue"
   },
   "TeamMember": {
     "description": "Auto imported from components/TeamMember.vue"

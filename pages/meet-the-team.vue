@@ -8,13 +8,8 @@
         <SearchPopup />
 
         <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/breadcrumb-bg-five.jpg" />
-
-        <CallToActionOne />
-
-        <!--Google Map Area Start-->
-        <!--Google Map Area Start-->
-
-        <ContactForm />
+         
+         <TeamOne :style="{backgroundColor: '#f8faff'}" />
 
         <TheFooter />
 
@@ -28,8 +23,7 @@
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
-            CallToActionOne: () => import('@/components/CallToActionOne'),
-            ContactForm: () => import('@/components/ContactForm'),
+            TeamOne: () => import('@/components/TeamOne'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 
@@ -41,7 +35,7 @@
                         to: "/"
                     },
                     {
-                        text: 'Contact Us',
+                        text: 'Meet The Team',
                         active: true
                     }
                 ]

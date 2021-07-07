@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="newsletter-content">
-                        <SectionTitle title="Let’s find out how to work together" sub-title="Ready to start your project? The contact information collected through this form will only be used to send a response to your inquiry." add-class-name="color-light" />
+                        <SectionTitle title="Let’s find out how to work together" sub-title="A Team of seasoned professionals from diverse backgrounds and industry experience to resolve various HR issues ." add-class-name="color-light" />
 
                         <!-- Newsletter Form Start -->
                         <div class="newsletter-form">

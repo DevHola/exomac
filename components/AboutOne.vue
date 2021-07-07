@@ -2,9 +2,8 @@
     <div class="section-padding-t90 section-padding-bottom-200">
         <div class="container">
             <!-- Section Title Start -->
-            <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title">We are a full-service creative agency</h2>
-                <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love</p>
+            <div class="section-title text-left" data-aos="fade-up">
+                <h2 class="title">Effective Human Resources and Business Management is Key to unlocking maximum productivity.</h2>
             </div>
             
             <!-- Section Title End -->
@@ -34,11 +33,11 @@
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
                             <span class="sub-title">Every day brings new challenges</span>
-                            <h3 class="title">Creative agency focused on vision, product and people</h3>
+                            <h3 class="title">Cocre-a bridges the gap of need for employers and jobseekers.</h3>
                         </div>
                         <!-- Section Title Two End -->
 
-                        <p>We’re boldly individual, always original and refreshingly easy-going. Our vision, passion and ideas are matched with focus, expertise and flair.</p>
+                        <p>We create processes that help businesses improve efficiency, make profit ,save cost by engaging the right talents, and building an ideal organization that nurtures productivity, innovation and collaboration.</p>
                         <n-link to="/about" class="btn btn-primary btn-hover-secondary mt-4">About Us</n-link>
                     </div>
                 </div>

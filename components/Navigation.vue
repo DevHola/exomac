@@ -1,6 +1,6 @@
 <template>
     <nav class="site-main-menu">
-        <ul>
+        <ul  >
             <li>
                 <n-link to="/">Home</n-link>
             </li>

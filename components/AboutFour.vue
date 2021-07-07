@@ -22,9 +22,7 @@
                             <span class="sub-title">What we do</span>
                             <h3 class="title">We improve HR and business operations .</h3>
                         </div>
-                        <p>Cocre-a offers bespoke solutions that improve HR and business operations across various sectors; internationally and
-locally. We examine companies and issues independently; and device a ‘flex-to-fit’ approach to handle all our clients request.Our solutions are tailored to meet the specific needs of our clients; in this regard, we offer a wide array of bespoke
-solutions that meet and surpass the expectations of our clients.</p>
+                        <p>Cocre-a provides customized solutions to improve HR and company processes in a variety of industries, both nationally and globally. We conduct impartial investigations into organizations and situations, and devise a "flex-to-fit" strategy to satisfy all of our clients' requests. Our solutions are adapted to our clients' individual needs; in this regard, we provide a wide range of bespoke solutions that meet and exceed the expectations of our clients.</p>
                     
                     </div>
               

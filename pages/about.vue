@@ -15,6 +15,8 @@
 
         <Team />
 
+        <BrandLogoCarousel />
+
         <TheFooter />
 
     </div>
@@ -30,6 +32,7 @@
             AboutTwo: () => import('@/components/AboutTwo'),
             AboutFour: () => import('@/components/AboutFour'),
             Team: () => import('@/components/Team'),
+            BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 

@@ -7,12 +7,11 @@
                         <div class="row row-cols-lg-1 row-cols-1">
                             <div class="col align-self-center">
                                 <div class="intro-content mt-xl-8 mt-lg-8 mt-md-8 mt-sm-8 mt-xs-8">
-                                    <h2 class="title">{{ banner.heading }}</h2>
                                     <div class="desc">
                                         <p>{{ banner.text }}</p>
                                     </div>
                                     <n-link to="/about" class="btn btn-primary btn-hover-secondary">Get Started</n-link>
-                                    <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>
+                                    <n-link to="/contact-us" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>
                                 </div>
                             </div>
                         </div>
@@ -48,14 +47,12 @@
                 sliderData: [
                     {
                         id: 1,
-                        heading: "Designing awesome brands & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        text: "We are a youthful and energetic team with over 10 years of combined business and people management experience.",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
                     {
                         id: 2,
-                        heading: "Designing awesome brands & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        text: "Working with executives to recruit, reward, and retain the appropriate people inside the right organization, Human Resource Management specialists dedicated to unleashing corporate potential through continuous and exceptional business delivery.",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
                 ]

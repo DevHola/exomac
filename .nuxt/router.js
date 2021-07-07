@@ -10,6 +10,7 @@ const _55f811c0 = () => interopDefault(import('..\\pages\\blog-grid.vue' /* webp
 const _76b02a4c = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _c00b28de = () => interopDefault(import('..\\pages\\home-three.vue' /* webpackChunkName: "pages/home-three" */))
 const _0a955bff = () => interopDefault(import('..\\pages\\home-two.vue' /* webpackChunkName: "pages/home-two" */))
+const _fff534a4 = () => interopDefault(import('..\\pages\\meet-the-team.vue' /* webpackChunkName: "pages/meet-the-team" */))
 const _5ae84008 = () => interopDefault(import('..\\pages\\project.vue' /* webpackChunkName: "pages/project" */))
 const _69e7e2fd = () => interopDefault(import('..\\pages\\project-details.vue' /* webpackChunkName: "pages/project-details" */))
 const _1ffc8da4 = () => interopDefault(import('..\\pages\\service.vue' /* webpackChunkName: "pages/service" */))
@@ -60,6 +61,10 @@ export const routerOptions = {
     path: "/home-two",
     component: _0a955bff,
     name: "home-two"
+  }, {
+    path: "/meet-the-team",
+    component: _fff534a4,
+    name: "meet-the-team"
   }, {
     path: "/project",
     component: _5ae84008,

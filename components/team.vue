@@ -3,7 +3,7 @@
                 <div class="container  p-2 px-5 my-5">
                     <div class="text-center">
                         <h2 class="fw-bolder">Meet the team</h2>
-                        <p class="lead fw-normal text-muted mb-5">Our multi-functional seasoned consultants dedicate time and expertise to build business operations on a strategic level to ensure optimal productivity</p>
+                        <p class="lead fw-normal text-muted mb-5">Cocre-a Consultings is made up of experts that have proven experience in all aspects of human resource management.</p>
                     </div>
                     <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
                         <div class="col mb-5 mb-5 mb-xl-0">

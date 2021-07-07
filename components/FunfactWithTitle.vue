@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-32">We help our clients solve business problems, increase <br> visibility, and achieve unexpected results</h2>
+                <h2 class="title fz-32">We help our clients solve business problems, relating to <br> improve HR and business operations</h2>
             </div>
             <!-- Section Title End -->
             <div class="row">

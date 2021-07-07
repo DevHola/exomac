@@ -8,22 +8,22 @@
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <n-link to="/">
-                                <img :src="footerData.footerAboutWidget.logoSrc" alt="Logo">
+                                <span style="color:white;font-size:20px;font-family:Lucida Sans Regular;"><b>Cocre-a Consults</b></span>
                             </n-link>
                         </div>
                         <div class="footer-widget-content">
                             <div class="content">
-                                <p><a href="tel:(+1)212-946-2701">{{ footerData.footerAboutWidget.telephone }}</a></p>
-                                <p><a href="mailto:hello@hasagency.com">{{ footerData.footerAboutWidget.email }}</a></p>
+                                <p><a href="tel:(+1)212-946-2701"></a></p>
+                                <p><a href="mailto:info@cocreaconsults.com">Info@cocreaconsults.com</a></p>
                             </div>
                             <div class="footer-social-inline">
-                                <a :href="footerData.footerAboutWidget.twitterUrl">
+                                <a href="">
                                     <i class="fab fa-twitter-square"></i>
                                 </a>
-                                <a :href="footerData.footerAboutWidget.fbUrl">
+                                <a href="">
                                     <i class="fab fa-facebook-square"></i>
                                 </a>
-                                <a :href="footerData.footerAboutWidget.instagramUrl">
+                                <a href="">
                                     <i class="fab fa-instagram"></i>
                                 </a>
                             </div>
@@ -48,18 +48,7 @@
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
-                <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4 col-6 mt-30">
-                    <div class="footer-widget">
-                        <h4 class="footer-widget-title">{{ footerData.footerLinkTitleTwo }}</h4>
-                        <div class="footer-widget-content">
-                            <ul>
-                                <li v-for="(nav, index) in footerData.navListTwo" :key="index">
-                                    <n-link :to="nav.navUrl">{{ nav.navTitle }}</n-link>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+    
                 <!-- Footer Widget End -->
 
                 <!-- Footer Widget Start -->
@@ -97,7 +86,7 @@
             <!-- Footer Copyright Start -->
             <div class="row">
                 <div class="col">
-                    <p class="copyright">Copyright &copy; 2021 <a href="#">HasThemes</a>. All Rights Reserved.</p>
+                    <p class="copyright">Copyright &copy; 2021 <a href="/home">Cocre-a Consults</a>. All Rights Reserved.</p>
                 </div>
             </div>
             <!-- Footer Copyright End -->
@@ -116,3 +105,9 @@
         },
     };
 </script>
+<style scoped>
+
+span{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+</style>

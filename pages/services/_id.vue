@@ -7,20 +7,52 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
+        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg-two.jpg" />
 
-        <ServiceWrapper />
-         <div class="text-center row">
-         <div v-for="(service,index) in services" :key="index" class="col-3 p-1"> 
-            <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
-             <h5><nuxt-link :to="'/services/'+service.url" type="button" class="">{{service.title}}</nuxt-link></h5>
-             </div>
-         
-         </div>
+        <!-- Start Work Details -->
+        <div class="section-padding">
+            <div class="container">
+                <!-- Start Thumbnail -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="custom-column-thumbnail mt-60" data-aos="fade-up">
+                            <img class="w-100" src="/images/project/work-details-1.jpg" alt="Agency">
+                        </div>
+                    </div>
+                </div>
 
-
-        <FunfactWithTitle />
-
+                <!-- Start Digital Marketion Area -->
+                <div class="row mt-60">
+                    <div class="col-lg-4 col-md-12 col-12">
+                        <div class="digital-marketing" data-aos="fade-up">
+                            <h3 class="heading heading-h3">{{service.title}}</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-12 col-12 offset-lg-1">
+                        <div class="digital-marketing" data-aos="fade-up">
+                            <div class="inner">
+                                <p v-for="(details,index) in service.desc" :key="index">{{details.desc}}.</p>
+                                  <b>Solutions we offer:</b>
+                                  <li v-for="(select,index) in service.Selection" :key="index">{{select.title}}</li>
+                                  
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Digital Marketion Area -->
+                 <hr>
+                <!-- Start Gallery Area -->
+               
+                <!-- End Gallery Area -->
+            </div>
+        </div>
+        <!-- Start Work Details -->
+          <section class="py-5 bg-light">
+                <div class="container px-5 my-5">
+                    <h2 class="display-4 fw-bolder mb-4">Let's build something together</h2>
+                    <a class="btn btn-lg btn-primary" href="#!">Contact us</a>
+                </div>
+            </section>
         <TheFooter />
 
     </div>
@@ -33,11 +65,6 @@
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
-            ServiceWrapper: () => import('@/components/ServiceWrapper'),
-            SuccessStory: () => import('@/components/SuccessStory'),
-            AboutFour: () => import('@/components/AboutFour'),
-            FunfactWithTitle: () => import('@/components/FunfactWithTitle'),
-            ContactSectionTwo: () => import('@/components/ContactSectionTwo'),
             TheFooter: () => import('@/components/TheFooter'),
         },
 
@@ -49,17 +76,17 @@
                         to: "/"
                     },
                     {
-                        text: 'Service',
+                        text: 'Project Details',
                         active: true
                     }
                 ]
             }
         },
-        asyncData(){
+        asyncData(context){
             return new Promise((resolve,reject)=>{
                 setTimeout(()=>{
                   resolve({
-                      services:[
+                      service:[
                           {
                               id:1,
                               url:"Recruitment-and-Selection",
@@ -189,14 +216,15 @@
                                   }
                               ]
                           }
-                      ]
+                      ].find(el => el.url === context.params.id)
                   })
                 },1500)
             })
         },
+
         head() {
             return {
-                title: 'Service'
+                title: 'Project Details'
             }
         },
     };

@@ -8,8 +8,9 @@
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
                             <n-link to="/">
-                                <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
-                                <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                                <span style="color:white;font-size:17px;font-family:Lucida Sans Regular;"><b>Cocre-a Consults</b></span>                            
+                               <!-- <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                                <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">-->
                             </n-link>
                         </div>
                     </div>
@@ -45,9 +46,7 @@
                     <!-- Header Main Menu End -->
 
                     <!-- Header Right Start -->
-                    <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
-                        <n-link to="/" class="btn btn-light btn-hover-primary">Buy Now</n-link>
-                    </div>
+                    
                     <!-- Header Right End -->
 
                 </div>

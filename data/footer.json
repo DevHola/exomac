@@ -10,77 +10,45 @@
     "footerLinkTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "Marketing",
-            "navUrl": "/" 
+            "navTitle": "Recruitment",
+            "navUrl": "/services/Recruitment-and-Selection" 
         },
         {
-            "navTitle": "SEO/SEM",
-            "navUrl": "/" 
+            "navTitle": "HRAdvisory Services",
+            "navUrl": "/services/HRAdvisory-Services" 
         },
         {
-            "navTitle": "Development",
-            "navUrl": "/" 
+            "navTitle": "Outsourcing",
+            "navUrl": "/services/Outsourcing" 
         },
         {
-            "navTitle": "UX Design",
-            "navUrl": "/" 
+            "navTitle": "Strategy & Learning",
+            "navUrl": "/services/Strategy-and-Learning" 
         }
     ],
-    "footerLinkTitleTwo": "Products",
-    "navListTwo": [
-        {
-            "navTitle": "Elementor Guru",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "WooLentor Pro",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Plugins",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Page Builder",
-            "navUrl": "/" 
-        }
-    ],
+   
     "footerLinkTitleThree": "About",
     "navListThree": [
         {
-            "navTitle": "Features",
-            "navUrl": "/" 
+            "navTitle": "About Us",
+            "navUrl": "/about" 
         },
         {
-            "navTitle": "Our Partners",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Affiliate Program",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Pricing",
-            "navUrl": "/" 
+            "navTitle": "Meet The Team",
+            "navUrl": "/meet-the-team" 
         }
     ],
     "footerLinkTitleFour": "Contact",
     "navListFour": [
-        {
-            "navTitle": "Support Ticket",
-            "navUrl": "/" 
-        },
+        
         {
             "navTitle": "Help Desk",
-            "navUrl": "/" 
+            "navUrl": "/contact-us" 
         },
         {
             "navTitle": "Live Chat",
             "navUrl": "/" 
-        },
-        {
-            "navTitle": "FAQs",
-            "navUrl": "/" 
         }
+        
     ]
 }

@@ -12,7 +12,7 @@
         <ServiceWrapper />
        <div class="m-5 text-center row">
          <div v-for="(service,index) in services" :key="index" class="col"> 
-            <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
+            <img class="img-fluid rounded-circle mb-4 px-4" :src="service.image"/>           
              <h5><nuxt-link :to="'/services/'+service.url" type="button" class="">{{service.title}}</nuxt-link></h5>
              </div>
          
@@ -60,7 +60,7 @@
                                       desc:"This solution ensures that we adopt the most effective measures to ensure we attract, shortlist, select and present to our clients the most suitable candidates for all required roles."
                                   }
                               ],
-                              image:"",
+                              image:"https://www.uipi.com/wp-content/uploads/2017/11/recruitment-icon-1024x730.png",
                               Selection:[
                                   {
                                       id:1,
@@ -86,7 +86,7 @@
                                       desc:"Talent Management: This solution focuses on equipping the workforce with efficient tools to ensure optimal productivity. Our approach ensures we tap and develop the potential of your employees from beginning to the end of their employment life cycle"
                                   }
                               ],
-                              image:"",
+                              image:"https://dummyimage.com/150x150/ced4da/6c757d",
                               Selection:[
                                   {
                                       id:1,
@@ -140,7 +140,7 @@
                                       desc:"Outsourcing solutions is structured such that our clients time resource is freed up to allow for a focus on strategic operations. It is an all-encompassing solution focused on the following:"
                                   }
                               ],
-                              image:"",
+                              image:"https://dummyimage.com/150x150/ced4da/6c757d",
                               Selection:[{
                                       id:1,
                                       title:"People Outsourcing "
@@ -163,7 +163,7 @@
                                   id:1,
                                   desc:"This service aims at identifying and providing the right training opportunities to employees to improve individual performance by proper development of skills and knowledge."
                               }],
-                              image:"",
+                              image:"https://dummyimage.com/150x150/ced4da/6c757d",
                               Selection:[
                                   {
                                       id:1,

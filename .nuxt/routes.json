@@ -3,70 +3,60 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\about.vue",
-    "chunkName": "pages/about",
-    "_name": "_5521883c"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_76b02a4c"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "meet-the-team",
     "path": "/meet-the-team",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\meet-the-team.vue",
-    "chunkName": "pages/meet-the-team",
-    "_name": "_fff534a4"
+    "chunkName": "pages/meet-the-team"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\service.vue",
-    "chunkName": "pages/service",
-    "_name": "_1ffc8da4"
+    "chunkName": "pages/service"
   },
   {
     "name": "services-HRAdvisory-Services",
     "path": "/services/HRAdvisory-Services",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\HRAdvisory-Services.vue",
-    "chunkName": "pages/services/HRAdvisory-Services",
-    "_name": "_9ca1618e"
+    "chunkName": "pages/services/HRAdvisory-Services"
   },
   {
     "name": "services-Outsourcing",
     "path": "/services/Outsourcing",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\Outsourcing.vue",
-    "chunkName": "pages/services/Outsourcing",
-    "_name": "_ee7f3d52"
+    "chunkName": "pages/services/Outsourcing"
   },
   {
     "name": "services-Recruitment-and-Selection",
     "path": "/services/Recruitment-and-Selection",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\Recruitment-and-Selection.vue",
-    "chunkName": "pages/services/Recruitment-and-Selection",
-    "_name": "_1c4bc936"
+    "chunkName": "pages/services/Recruitment-and-Selection"
   },
   {
     "name": "services-Strategy-and-Learning",
     "path": "/services/Strategy-and-Learning",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\Strategy-and-Learning.vue",
-    "chunkName": "pages/services/Strategy-and-Learning",
-    "_name": "_38188582"
+    "chunkName": "pages/services/Strategy-and-Learning"
   },
   {
     "name": "services-id",
     "path": "/services/:id?",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\services\\\\_id.vue",
-    "chunkName": "pages/services/_id",
-    "_name": "_0456eecb"
+    "chunkName": "pages/services/_id"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\Olamide\\\\fstack\\\\exomac\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_74d96301"
+    "chunkName": "pages/index"
   }
 ]

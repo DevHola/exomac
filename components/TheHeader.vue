@@ -17,20 +17,11 @@
                     <!-- Header Logo End -->
 
                     <!-- Header Main Menu Start -->
-                    <div class="col-auto col-xl d-flex align-items-center justify-content-xl-center justify-content-end order-2 order-xl-1">
+                    <div class="col-auto col-xl d-flex align-items-center justify-content-xl-right justify-content-end order-2 order-xl-1">
                         <div class="menu-column-area d-none d-xl-block position-static">
                             <Navigation />
                         </div>
                         <!-- Header Search Start -->
-                        <div class="header-search-area">
-                            <!-- Header Login Start -->
-                            <div class="header-search">
-                                <a href="javascript:void(0)" class="header-search-toggle" @click="toggleClass('addClass', 'search-popup-open')">
-                                    <i class="pe-7s-search pe-2x pe-va"></i>
-                                </a>
-                            </div>
-                            <!-- Header Login End -->
-                        </div>
                         <!-- Header Search End -->
 
                         <!-- Header Mobile Menu Toggle Start -->

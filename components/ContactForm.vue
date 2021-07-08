@@ -1,11 +1,11 @@
 <template>
-    <div class="contact-form-section section-padding-t90-b100" :style="{backgroundColor: '#f8faff'}">
+    <div class="contact-form-section section-padding-t90-b100 bg-dark" >
         <div class="container">
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
                     <!-- Section Title Start -->
                     <div class="section-title text-center" data-aos="fade-up">
-                        <h2 class="title fz-32">Let’s talk about your project</h2>
+                        <h2 class="title fz-32" style="color:white;">Let’s talk about your project</h2>
                         <p class="sub-title">We are here to support your processes. Make us your partner</p>
                     </div>
                     <!-- Section Title End -->

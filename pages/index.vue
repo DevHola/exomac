@@ -10,12 +10,13 @@
         <HeroSliderOne />
 
         <AboutOne />
+        <FunfactWithTitle />
+        <hr>
        <div class="container">
            <h3 class="text-center">Our Services</h3>
            <p class="text-center">what we offer</p>
            <p></p>
        </div>
-       <hr>
        <div class="m-5 text-center row">
          <div v-for="(service,index) in services" :key="index" class="col"> 
             <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
@@ -23,17 +24,15 @@
              </div>
          
          </div>
-         <hr>
-        <FunfactWithTitle />
         <hr>
 
-         <section class="py-5  box-shadow" style="background:#030E22;">
+         <section class="py-5 mb-4  box-shadow" style="background:#030E22;">
                 <div class="container px-5 my-5">
                     <h2 class="display-4 fw-bolder mb-4" style="color:white;">Let's build something together</h2>
                     <a class="btn btn-lg btn-primary" href="#!">Contact us</a>
                 </div>
             </section>
-        <BrandLogoCarousel />
+        <BrandLogoCarousel style="padding-top:40px;"/>
         <TheFooter />
 
     </div>
@@ -57,11 +56,9 @@
                 title: 'Welcome to Cocre-a Consultings'
             }
         },
-                asyncData(){
-            return new Promise((resolve,reject)=>{
-                setTimeout(()=>{
-                  resolve({
-                      services:[
+        data(){
+            return {
+                services:[
                           {
                               id:1,
                               url:"Recruitment-and-Selection",
@@ -192,9 +189,7 @@
                               ]
                           }
                       ]
-                  })
-                },1500)
-            })
+            }
         }
     };
 </script>

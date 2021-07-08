@@ -3,7 +3,7 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-left" data-aos="fade-up">
-                <h2 class="title">Effective Human Resources and Business Management is Key to unlocking maximum productivity.</h2>
+                <h2 style="font-size:20px;" class="title">Effective Human Resources and Business Management is Key to unlocking <br> maximum productivity.</h2>
             </div>
             
             <!-- Section Title End -->

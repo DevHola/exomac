@@ -48,12 +48,12 @@
                     {
                         id: 1,
                         text: "We are a youthful and energetic team with over 10 years of combined business and people management experience.",
-                        bgImgSrc: "/images/hero-image/hero-1.jpg"
+                        bgImgSrc: "/images/hero-image/teemu-paananen-bzdhc5b3Bxs-unsplash.jpg"
                     },
                     {
                         id: 2,
                         text: "Working with executives to recruit, reward, and retain the appropriate people inside the right organization, Human Resource Management specialists dedicated to unleashing corporate potential through continuous and exceptional business delivery.",
-                        bgImgSrc: "/images/hero-image/hero-2.jpg"
+                        bgImgSrc: "/images/hero-image/leon-Oalh2MojUuk-unsplash.jpg"
                     }
                 ]
             }

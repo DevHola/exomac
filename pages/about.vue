@@ -7,9 +7,9 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/breadcrumb-bg1.jpg" />
 
-        <AboutTwo class="section-padding-top" />
+        <AboutTwo class="" />
          <hr>
         <AboutFour/>
 

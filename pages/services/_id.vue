@@ -68,7 +68,7 @@
             TheFooter: () => import('@/components/TheFooter'),
         },
 
-        data() {
+        data(context) {
             return {
                 items: [
                     {
@@ -79,14 +79,8 @@
                         text: 'Project Details',
                         active: true
                     }
-                ]
-            }
-        },
-        asyncData(context){
-            return new Promise((resolve,reject)=>{
-                setTimeout(()=>{
-                  resolve({
-                      service:[
+                ],
+                service:[
                           {
                               id:1,
                               url:"Recruitment-and-Selection",
@@ -217,10 +211,9 @@
                               ]
                           }
                       ].find(el => el.url === context.params.id)
-                  })
-                },1500)
-            })
+            }
         },
+       
 
         head() {
             return {

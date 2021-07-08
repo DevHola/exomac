@@ -7,6 +7,10 @@ const _5521883c = () => interopDefault(import('..\\pages\\about.vue' /* webpackC
 const _76b02a4c = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _fff534a4 = () => interopDefault(import('..\\pages\\meet-the-team.vue' /* webpackChunkName: "pages/meet-the-team" */))
 const _1ffc8da4 = () => interopDefault(import('..\\pages\\service.vue' /* webpackChunkName: "pages/service" */))
+const _9ca1618e = () => interopDefault(import('..\\pages\\services\\HRAdvisory-Services.vue' /* webpackChunkName: "pages/services/HRAdvisory-Services" */))
+const _ee7f3d52 = () => interopDefault(import('..\\pages\\services\\Outsourcing.vue' /* webpackChunkName: "pages/services/Outsourcing" */))
+const _1c4bc936 = () => interopDefault(import('..\\pages\\services\\Recruitment-and-Selection.vue' /* webpackChunkName: "pages/services/Recruitment-and-Selection" */))
+const _38188582 = () => interopDefault(import('..\\pages\\services\\Strategy-and-Learning.vue' /* webpackChunkName: "pages/services/Strategy-and-Learning" */))
 const _0456eecb = () => interopDefault(import('..\\pages\\services\\_id.vue' /* webpackChunkName: "pages/services/_id" */))
 const _74d96301 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -42,6 +46,22 @@ export const routerOptions = {
     path: "/service",
     component: _1ffc8da4,
     name: "service"
+  }, {
+    path: "/services/HRAdvisory-Services",
+    component: _9ca1618e,
+    name: "services-HRAdvisory-Services"
+  }, {
+    path: "/services/Outsourcing",
+    component: _ee7f3d52,
+    name: "services-Outsourcing"
+  }, {
+    path: "/services/Recruitment-and-Selection",
+    component: _1c4bc936,
+    name: "services-Recruitment-and-Selection"
+  }, {
+    path: "/services/Strategy-and-Learning",
+    component: _38188582,
+    name: "services-Strategy-and-Learning"
   }, {
     path: "/services/:id?",
     component: _0456eecb,

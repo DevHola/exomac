@@ -1,9 +1,10 @@
 <template>
-    <div class="section-padding-t90 section-padding-bottom" :style="{backgroundColor: '#f8faff'}">
+    
+    <div class=" section-padding-bottom" :style="{backgroundColor: '#ffff'}">
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h5 class="title " style="font-size:20px;">Our Clients may rely on our focused approach to establishing tailor-made HR services and solutions tailored to their needs in an increasingly flexible and continuously changing business context.</h5>
+                <h5 class="title " style="font-size:20px;">HR services and solutions tailored to your needs.</h5>
             </div>
             <!-- Section Title End -->
             <div class="row">

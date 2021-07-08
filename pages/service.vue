@@ -7,18 +7,17 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg-three.jpg" />
+        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg1.jpg" />
 
         <ServiceWrapper />
-         <div class="text-center row">
+       <div class="m-5 text-center row">
          <div v-for="(service,index) in services" :key="index" class="col"> 
             <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
              <h5><nuxt-link :to="'/services/'+service.url" type="button" class="">{{service.title}}</nuxt-link></h5>
              </div>
          
          </div>
-
-
+        <hr>
         <FunfactWithTitle />
 
         <TheFooter />
@@ -49,14 +48,8 @@
                         text: 'Service',
                         active: true
                     }
-                ]
-            }
-        },
-        asyncData(){
-            return new Promise((resolve,reject)=>{
-                setTimeout(()=>{
-                  resolve({
-                      services:[
+                ],
+                services:[
                           {
                               id:1,
                               url:"Recruitment-and-Selection",
@@ -81,8 +74,8 @@
                           },
                           {
                               id:2,
-                              url:"HRAdvisory-Services",
-                              title:"HRAdvisory Services",
+                              url:"HR Advisory-Services",
+                              title:"HR Advisory Services",
                               desc:[
                                   {
                                       id:1,
@@ -97,7 +90,7 @@
                               Selection:[
                                   {
                                       id:1,
-                                      title:"HRAnalytics & Diagnostics"
+                                      title:"HR Analytics & Diagnostics"
                                   },
                                    {
                                       id:2,
@@ -187,9 +180,7 @@
                               ]
                           }
                       ]
-                  })
-                },1500)
-            })
+            }
         },
         head() {
             return {

@@ -1,0 +1,23 @@
+{
+  "entry": "server.js",
+  "files": {
+    "7.js": "7.js",
+    "pages/about.js": "pages/about.js",
+    "pages/contact-us.js": "pages/contact-us.js",
+    "pages/index.js": "pages/index.js",
+    "pages/meet-the-team.js": "pages/meet-the-team.js",
+    "pages/service.js": "pages/service.js",
+    "pages/services/_id.js": "pages/services/_id.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "7.js": "7.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/contact-us.js": "pages/contact-us.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/meet-the-team.js": "pages/meet-the-team.js.map",
+    "pages/service.js": "pages/service.js.map",
+    "pages/services/_id.js": "pages/services/_id.js.map",
+    "server.js": "server.js.map"
+  }
+}

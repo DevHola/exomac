@@ -44,7 +44,7 @@
 
         head() {
             return {
-                title: 'Contact Us'
+                title: 'Meet The Team'
             }
         },
     };

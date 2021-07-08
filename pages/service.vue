@@ -11,7 +11,7 @@
 
         <ServiceWrapper />
          <div class="text-center row">
-         <div v-for="(service,index) in services" :key="index" class="col-3 p-4 "> 
+         <div v-for="(service,index) in services" :key="index" class="col"> 
             <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />           
              <h5><nuxt-link :to="'/services/'+service.url" type="button" class="">{{service.title}}</nuxt-link></h5>
              </div>

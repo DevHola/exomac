@@ -12,9 +12,12 @@
         <AboutTwo class="" />
          <hr>
         <AboutFour/>
-        <div class="container p-3 mt-5">
-        <TeamOne />
-        </div>
+       <section class="py-5 mb-4 mt-5  box-shadow" style="background:#030E22;">
+                <div class="container px-5 my-5">
+                    <h2 class="display-4 fw-bolder mb-4" style="color:white;">Let's build something together</h2>
+                    <a class="btn btn-lg btn-primary" href="#!">Contact us</a>
+                </div>
+            </section>
 
         <BrandLogoCarousel />
 
@@ -32,7 +35,6 @@
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             AboutTwo: () => import('@/components/AboutTwo'),
             AboutFour: () => import('@/components/AboutFour'),
-            TeamOne: () => import('@/components/TeamOne'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             TheFooter: () => import('@/components/TheFooter'),
         },

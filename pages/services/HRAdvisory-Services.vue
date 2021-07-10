@@ -15,12 +15,12 @@
                 <!-- Start Thumbnail -->
                 <div class="row">
                     <div class="col">
-                        <div class="custom-column-thumbnail" data-aos="fade-up">
+                        <div class="custom-column-thumbnail" >
                             <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
                         </div>
                     </div>
                      <div class="col">
-                        <div class="custom-column-thumbnail" data-aos="fade-up">
+                        <div class="custom-column-thumbnail" >
                             <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
                         </div>
                     </div>
@@ -30,12 +30,12 @@
                 <!-- Start Digital Marketion Area -->
                 <div class="row mt-60">
                     <div class="col-lg-4 col-md-12 col-12">
-                        <div class="digital-marketing" data-aos="fade-up">
+                        <div class="digital-marketing" >
                             <h3 class="heading heading-h3">HRAdvisory Services</h3>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-12 col-12 offset-lg-1">
-                        <div class="digital-marketing" data-aos="fade-up">
+                        <div class="digital-marketing" >
                             <div class="inner">
                                 <p>HR Transformation: This service offers a robust service that focuses on building and developing HR systems, practices and processes that are fit for purpose and are more perfectly aligned to the overall strategic objectives of the organisation.</p>
                                   <p>Talent Management: This solution focuses on equipping the workforce with efficient tools to ensure optimal productivity. Our approach ensures we tap and develop the potential of your employees from beginning to the end of their employment life cycle</p>

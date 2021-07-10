@@ -3,7 +3,7 @@
     <div class="">
         <div class="container">
             <div class="row">
-                <div class="col-xl-7 col-lg-6 col-12" data-aos="fade-up">
+                <div class="col-xl-7 col-lg-6 col-12" >
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
                             <img src="/images/about/leon-6awfTPLGaCE-unsplash.jpg" height="370" width="370" alt="image">
@@ -13,10 +13,10 @@
                         </div>
                         
                         <!-- Animation Shape Start -->
-                        <ShapeWithAnimation addClassName="shape-1" data-depth="1" imgSrc="/images/shape-animation/about-shape-1.png" />
+                        
                     </div>
                 </div>
-                <div class="col-xl-5 col-lg-6 col-12" data-aos="fade-up">
+                <div class="col-xl-5 col-lg-6 col-12">
                     <div class="about-content-area about-four">
                         <div class="section-title-two">
                             <span class="sub-title">What we do</span>
@@ -36,8 +36,6 @@
 
 <script>
     export default {
-        components: {
-            ShapeWithAnimation: () => import('@/components/ShapeWithAnimation')
-        },
+        
     };
 </script>

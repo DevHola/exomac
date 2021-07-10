@@ -1,12 +1,12 @@
 <template>
     <div class="section-padding-t90-b100">
-        <div class="container shape-animate">
+        <div class="container ">
             <!-- Section Title Start -->
             <SectionTitle title="HR consulting services possible with every consultation!" sub-title="" add-class-name="mb-30" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
-                <div class="col mt-30" data-aos="fade-up">
+                <div class="col mt-30" >
                     <div class="contact-info">
                         <div class="icon">
                             <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="Icon">
@@ -18,7 +18,7 @@
                     </div>
                 </div>
 
-                <div class="col mt-30" data-aos="fade-up">
+                <div class="col mt-30" >
                     <div class="contact-info">
                         <div class="icon">
                             <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="Icon">
@@ -30,7 +30,7 @@
                     </div>
                 </div>
 
-                <div class="col mt-30" data-aos="fade-up">
+                <div class="col mt-30" >
                     <div class="contact-info">
                         <div class="icon">
                             <img class="svgInject" src="/images/svg/linea/linea-basic-mail-open-text.svg" alt="Icon">
@@ -47,7 +47,7 @@
                 </div>
             </div>
 
-            <shape-with-animation add-class-name="shape-1" data-depth="4" img-src="/images/shape-animation/video-shape-1.png" />
+            
 
         </div>
     </div>

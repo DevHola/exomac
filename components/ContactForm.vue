@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
                     <!-- Section Title Start -->
-                    <div class="section-title text-center" data-aos="fade-up">
+                    <div class="section-title text-center" >
                         <h2 class="title fz-32" style="color:white;">Let’s talk about your project</h2>
                         <p class="sub-title">We are here to support your processes. Make us your partner</p>
                     </div>

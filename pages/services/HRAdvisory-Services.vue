@@ -7,19 +7,25 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg-two.jpg" />
+        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg1.jpg" />
 
         <!-- Start Work Details -->
         <div class="section-padding">
             <div class="container">
                 <!-- Start Thumbnail -->
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="custom-column-thumbnail mt-60" data-aos="fade-up">
-                            <img class="w-100" src="/images/project/work-details-1.jpg" alt="Agency">
+                    <div class="col">
+                        <div class="custom-column-thumbnail" data-aos="fade-up">
+                            <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
+                        </div>
+                    </div>
+                     <div class="col">
+                        <div class="custom-column-thumbnail" data-aos="fade-up">
+                            <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
                         </div>
                     </div>
                 </div>
+
 
                 <!-- Start Digital Marketion Area -->
                 <div class="row mt-60">

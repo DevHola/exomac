@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="custom-column-thumbnail mt-60" data-aos="fade-up">
-                            <img class="w-100" src="/images/project/work-details-1.jpg" alt="Agency">
+                            <img class="w-100" src="/images/project/work-details-1.jpg" height="250" alt="Agency">
                         </div>
                     </div>
                 </div>

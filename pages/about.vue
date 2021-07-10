@@ -12,8 +12,9 @@
         <AboutTwo class="" />
          <hr>
         <AboutFour/>
-
-        <Team />
+        <div class="container p-3 mt-5">
+        <TeamOne />
+        </div>
 
         <BrandLogoCarousel />
 
@@ -31,7 +32,7 @@
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             AboutTwo: () => import('@/components/AboutTwo'),
             AboutFour: () => import('@/components/AboutFour'),
-            Team: () => import('@/components/Team'),
+            TeamOne: () => import('@/components/TeamOne'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             TheFooter: () => import('@/components/TheFooter'),
         },

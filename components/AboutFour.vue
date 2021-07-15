@@ -3,13 +3,13 @@
     <div class="">
         <div class="container">
             <div class="row">
-                <div class="col-xl-7 col-lg-6 col-12" >
+                <div class="col col-lg-6 col-12" >
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/leon-6awfTPLGaCE-unsplash.jpg" height="370" width="370" alt="image">
+                            <img src="/images/bg/depositphotos_50591129-stock-photo-african-american-businesswoman-in-office.jpeg" height="370" width="370" alt="image">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/muhammad-faiz-zulkeflee-alw-CwGFmwQ-unsplash.jpg" width="370" height="370" alt="image">
+                          
                         </div>
                         
                         <!-- Animation Shape Start -->

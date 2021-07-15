@@ -14,10 +14,10 @@
                 <div class="col-xl-7 col-lg-6" >
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_1.jpg" alt="images">
+                            <img src="/images/bg/successful-african-american-businessman-handshaking-260nw-213305437.jpeg" height="370" width="370" alt="images">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/agency_about_2.jpg" alt="images">
+                            <img src="/images/bg/diversity-people-talk-international-conference-260nw-567149824.jpeg" height="370" width="370" alt="images">
                         </div>
 
                         <!-- Animation Shape Start -->

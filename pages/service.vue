@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/breadcrumb-bg1.jpg" />
+        <BreadcrumbOne :items="items" title="We work with bold brands that we believe in" backgroundUrl= "/images/bg/slider-3.jpeg" />
 
         <ServiceWrapper />
        <div class="m-5 text-center row">

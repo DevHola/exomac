@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/breadcrumb-bg1.jpg" />
+        <BreadcrumbOne :items="items" title="" backgroundUrl= "/images/bg/slider-3.jpeg" />
          
          <TeamOne :style="{backgroundColor: '#f8faff'}" />
 

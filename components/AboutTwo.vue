@@ -10,7 +10,7 @@
            <section class="py-5 ">
                 <div class="container px-5">
                     <div class="row gx-5 align-items-center">
-                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                        <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb pull-right img-responsive" src="/images/bg/imgbin_vision-statement-business-computer-icons-mission-statement-company-png.png" height="250" width="50%" alt="..." /></div>
                         <div class="col-lg-6">
                             <h2 class="fw-bolder">Our Vision</h2>
                             <p class="lead fw-normal text-muted mb-0">Becoming the leading Human Capital and Resources Managers in Africa..</p>
@@ -21,7 +21,7 @@
            <section style="margin-top:-130px;" class="py-5 bg-light " id="scroll-target">
                 <div class="container px-5 my-5">
                     <div class="row gx-5 align-items-center">
-                        <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                        <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0 pull-left" src="/images/bg/imgbin_mission-statement-computer-icons-vision-statement-business-png.png" height="250" width="50%" alt="..." /></div>
                         <div class="col-lg-6">
                             <h2 class="fw-bolder">Our Mission</h2>
                             <p class="lead fw-normal text-muted mb-0">To provide sustainable Human Resources solutions by matching the talent shortage faced by organizations and businesses using creative, smart solutions..</p>

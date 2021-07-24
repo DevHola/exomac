@@ -6,7 +6,7 @@
                 <div class="col col-lg-6 col-12" >
                     <div class="about-image-area">
                         <div class="about-image js-tilt">
-                            <img src="/images/bg/depositphotos_50591129-stock-photo-african-american-businesswoman-in-office.jpeg" height="370" width="370" alt="image">
+                            <img src="/images/bg/depositphotos_50591129-stock-photo-african-american-businesswoman-in-office.jpeg" height="500" width="370" alt="image" class="img-fluid">
                         </div>
                         <div class="about-image js-tilt">
                           

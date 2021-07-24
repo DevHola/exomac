@@ -13,18 +13,6 @@
         <div class="section-padding">
             <div class="container">
                 <!-- Start Thumbnail -->
-                 <div class="row">
-                    <div class="col">
-                        <div class="custom-column-thumbnail">
-                            <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
-                        </div>
-                    </div>
-                     <div class="col">
-                        <div class="custom-column-thumbnail">
-                            <img class="img-fluid" src="/images/project/work-details-1.jpg"  alt="Agency">
-                        </div>
-                    </div>
-                </div>
 
 
                 <!-- Start Digital Marketion Area -->

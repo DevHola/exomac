@@ -2,7 +2,7 @@
     <div class="intro-slider">
         <swiper :options="swiperOptions">
             <swiper-slide class="swiper-slide" v-for="(banner, index) in sliderData" :key="index">
-                <div class="intro-section overlay bg-cover" :style="{ backgroundImage: `url(${banner.bgImgSrc})` }">
+                <div class="intro-section overlay bg-cover img-fluid" :style="{ backgroundImage: `url(${banner.bgImgSrc})` }">
                     <div class="container">
                         <div class="row row-cols-lg-1 row-cols-1">
                             <div class="col align-self-center">

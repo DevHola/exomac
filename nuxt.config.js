@@ -63,5 +63,6 @@ export default {
     build: {
         extend (config, ctx) {
         },
+        babel: { compact: true }
     },
 }

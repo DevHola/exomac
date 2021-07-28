@@ -7,10 +7,9 @@
                     <!-- Header Logo Start -->
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
-                            <n-link to="/">
-                                <span style="color:white;font-size:17px;font-family:Lucida Sans Regular;"><b>Cocre-a Consults</b></span>                            
-                               <!-- <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
-                                <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">-->
+                            <n-link to="/">   
+                                <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                                
                             </n-link>
                         </div>
                     </div>

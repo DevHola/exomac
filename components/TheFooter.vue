@@ -8,7 +8,7 @@
                     <div class="footer-widget">
                         <div class="footer-logo">
                             <n-link to="/">
-                                <span style="color:white;font-size:20px;font-family:Lucida Sans Regular;"><b>Cocre-a Consults</b></span>
+                               <img class="dark-logo  img-fluid" src="/images/logo/logo.png" width="200px" height="200px" alt="Agency Logo">
                             </n-link>
                         </div>
                         <div class="footer-widget-content">

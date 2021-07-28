@@ -5,9 +5,7 @@
             <div class="mobile-header">
                 <div class="logo">
                     <n-link to="/">
-                    <span style="color:white;font-size:15px;font-family:Lucida Sans Regular;"><b>Cocre-a Consults</b></span>
-                        <!---<img src="/images/logo/logo.png" alt="site logo">
-                        -->
+                        <img src="/images/logo/logo.png" alt="site logo">
                     </n-link>
                 </div>
                 <button class="mobile-close-btn" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></button>

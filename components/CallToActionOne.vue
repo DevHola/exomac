@@ -13,7 +13,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Our Locations</h4>
-                            <span class="info-text"> <br> Nigeria</span>
+                            <span class="info-text"> Suite 402, The King’s Plaza, Jahi. Opposite NAF Conference Centre</span>
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> 0123456789 <br> 0123456789</span>
+                            <span class="info-text">+234816-079-3010</span>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,6 @@
                             <h4 class="title">Help Desk</h4>
                             <span class="info-text">
                                 <a href="mailto:info@cocreaconsults.com">info@cocreaconsults.com</a>
-                                <a href="">cocreaconsults.com/contact</a>
                                 <br>
                             </span>
                         </div>

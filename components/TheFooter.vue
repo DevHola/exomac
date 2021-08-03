@@ -14,7 +14,7 @@
                         <div class="footer-widget-content">
                             <div class="content">
                                 <p><a href="tel:(+1)212-946-2701"></a></p>
-                                <p><a href="mailto:info@cocreaconsults.com">Info@cocreaconsults.com</a></p>
+                                <p><a href="mailto:info@cocreaconsults.com">info@cocreaconsults.com</a></p>
                             </div>
                             <div class="footer-social-inline">
                                 <a href="">
